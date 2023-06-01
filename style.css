@@ -1,0 +1,14 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+   border-width: 15px;
+   background-color:white;
+   border-style:ridge;
+   border-color: linear-gradient(to right,blue 40%, navy 20%,black 20%,pink 20%, red 20%);
+}
+
